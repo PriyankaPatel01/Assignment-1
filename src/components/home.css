@@ -1,0 +1,18 @@
+
+.main
+{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 15px;
+  position: absolute;
+}
+.circle
+{
+  background-color: yellow;
+  text-align: center;
+  height: 10vh;
+  padding: 20px;
+  width: 10vh;
+  border-radius: 50%;
+}
